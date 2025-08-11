@@ -1,9 +1,13 @@
 # R in Robin stands for reliable IT solutions
 
-✌️ Hi, I’m @RobiBlocks
+## About Me
 
-👀 I’m interested in creating fun front-end designs
+✌️ I’m @RobiBlocks<br>
+👀 Interested in Web Developement<br>
+🐍 Learning C#, JavaScript and Phyton<br>
 
-🐍 I’m currently learning Phyton
+## Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=cs,html,css,js,nodejs,py,powershell)](https://skillicons.dev)
 
-😂 Fun fact: I dominate on powerchairhockey field
+## Other Tech
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,docker,figma)](https://skillicons.dev)
